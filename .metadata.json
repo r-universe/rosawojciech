@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bigchess",
+    "oncran": true
+  },
+  {
+    "package": "rcube",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bigchess"]
+	path = bigchess
+	url = https://github.com/rosawojciech/bigchess
+	shallow = true
+	registered = true
+[submodule "rcube"]
+	path = rcube
+	url = https://github.com/rosawojciech/rcube
+	shallow = true
+	registered = true
